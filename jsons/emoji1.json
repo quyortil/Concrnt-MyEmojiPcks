@@ -1,0 +1,24 @@
+{
+    "name": "QuyoEmoji",
+    "version": "β1.0.0",
+    "description": "Quyortil's f**king Emoji Pack",
+    "credit": "2024 Quyortil, MEGAMOJI, et cetra.",
+    "iconURL": "https://raw.githubusercontent.com/quyortil/Concrnt-MyEmojiPcks/refs/heads/main/logo.png",
+    "emojis": [
+      {
+        "shortcode": "tst",
+        "imageURL": "https://github.com/quyortil/Concrnt-MyEmojiPcks/blob/main/imgs/01/tst.png?raw=true",
+        "aliases": ["てすと", "テスト"]
+      },
+      {
+        "shortcode": "arigata_ya",
+        "imageURL": "https://github.com/quyortil/Concrnt-MyEmojiPcks/blob/main/imgs/01/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%9F%E5%B1%8B.png?raw=true",
+        "aliases": ["ありがたや", "ありがた屋", "arigataya"] 
+      },
+      {
+        "shortcode": "500chouen",
+        "imageURL": "https://github.com/quyortil/Concrnt-MyEmojiPcks/blob/main/imgs/01/5000choyen.png?raw=true",
+        "aliases": ["5000兆円欲しい！", "5000chouenhosii", "5000tyouenhoshii"] 
+      }
+    ]
+  }
